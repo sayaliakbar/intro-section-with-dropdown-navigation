@@ -54,7 +54,6 @@ The goal was to create a responsive landing page where users can:
 
 ### Links
 
-- **Solution URL**: [View the solution here](https://github.com/sayakbarali/netixsol-internship/blob/main/week-02/day-05-06/intro-section-with-dropdown-navigation-solution/index.html)
 - **Live Site URL**: [Visit the live demo](https://solid-engine.surge.sh/)
 
 ---
