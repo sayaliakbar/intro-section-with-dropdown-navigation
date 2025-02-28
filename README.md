@@ -54,7 +54,7 @@ The goal was to create a responsive landing page where users can:
 
 ### Links
 
-- **Live Site URL**: [Visit the live demo](https://solid-engine.surge.sh/)
+- **Live Site URL**: [Intro Section With Dropdown Navigation](https://solid-engine.surge.sh/)
 
 ---
 
